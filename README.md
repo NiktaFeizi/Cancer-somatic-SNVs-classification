@@ -4,5 +4,5 @@ The project follows the below steps:
 1) Data preparation:
    i) labeling positive samples
    ii) labeling negative samples
-2) Model training
+2) Model building
 3) Making predictions by models
