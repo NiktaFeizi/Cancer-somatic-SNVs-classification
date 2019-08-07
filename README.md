@@ -5,4 +5,4 @@ The project follows the below steps:
    i) labeling positive samples
    ii) labeling negative samples
 2) Model training
-3) Model application
+3) Making predictions by models
